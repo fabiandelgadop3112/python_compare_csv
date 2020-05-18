@@ -8,5 +8,4 @@ for line in list_modified:
     if line in list_origin:
         print (f'{line} se encuentra en origen')
     else:
-        print (f'{line} no se encuentra en origen')
-
+        print (f'{line} NO se encuentra en origen')
