@@ -34,9 +34,9 @@ for line in list_modified:
         out_line =  f'{line.rstrip(line_break)},DOES NOT match{line_break}'
 
     out_file.write(out_line)
-    print(f'line_number {line_number} succesfully processed')
     line_number += 1    
 
+print(f'{line_number} lines was processed OK')
 print(f'File {out_file.name} was created succesfully')
 
     
