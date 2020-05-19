@@ -1,0 +1,11 @@
+﻿id,id_player,player_document,player_name,football_relation,id_team,team_document,team_name,MATCH without modifications
+1,2,P00001,KEYLOR NAVAS,exjugador,1,S00001,REAL MADRID,MATCH without modifications
+2,4,P00002,THIERRY HENRY,exjugador,2,S00002,ARSENAL,MATCH without modifications
+3,5,P00003,SERGIO AGÜERO,jugador,2,S00003,MANCHESTER CITY,MATCH adding some accent marks or Ñ character
+4,6,P00004,ANDRÉS INIESTA,exjugador,5,S00004,BARCELONA,MATCH adding some accent marks or Ñ character
+5,7,P00005,OLIVIER GIROUD,delantero,5,S00005,CHELSEA F.C.,DOES NOT match
+6,8,P00006,ROBERT LEWANDOWSKI,delantero,5,S00006,BAYERN MUNICH,MATCH without modifications
+7,9,P00007,NESTOR JOSÉ PEKERMAN,accionista,5,S00007,SELECCION COLOMBIA,MATCH adding and removing some accent marks or Ñ character
+8,10,P00008,JUAN ROMAN RIQUELME,presidente,5,S00008,BOCA JRS,MATCH removing some accent marks or Ñ character
+9,11,P00009,MARCELO GALLARDO,entrenador,5,S00009,RIVER PLATE,MATCH without modifications
+10,12,P00010,ROMAN ABRAMOVICH,presidente,5,S00010,CHELSEA F.C.,MATCH without modifications
